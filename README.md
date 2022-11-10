@@ -36,5 +36,5 @@ sudo ./yolov5_gen -s ../yolov5s.wts ../yolov5s.engine s
 ```
 sudo ./yolov5_use ../yolov5s.engine ../images/test.jpg
 ```
-
+![image](https://github.com/fish-kong/Yolov5-obb-Tensorrt-Infer/blob/main/yolov5_obb_tensorrt_cpp/result.jpg)
 
